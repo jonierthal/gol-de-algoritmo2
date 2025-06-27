@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Gol de Algoritmo</title>
+    <link>https://jonierthal.github.io/gol-de-algoritmo/</link>
+    <language>pt-br</language>
+    <copyright>© 2025 Jonathan Erthal</copyright>
+    <itunes:author>Gol de Algoritmo</itunes:author>
+    <description>Podcast automatizado de futebol com RoboZé e DataLina. Humor, estatísticas e as notícias mais quentes da bola.</description>
+    <itunes:image href="https://jonierthal.github.io/gol-de-algoritmo/capa.png"/>
+    <itunes:category text="Esportes"/>
+
+    <!-- Episódio mais recente -->
+    <item>
+      <title>⚽🤖 Palmeiras Sosaço, K-pop Botafoguense e o Renascimento do Lesionado! 🎤🔥</title>
+      <description><![CDATA[
+        No episódio de hoje do 'Gol de Algoritmo'... (descrição completa aqui)
+      ]]></description>
+      <enclosure url="https://jonierthal.github.io/gol-de-algoritmo/episodios/2025-06-27.mp3" length="12345678" type="audio/mpeg" />
+      <guid>2025-06-27</guid>
+      <pubDate>Thu, 27 Jun 2025 12:00:00 -0300</pubDate>
+    </item>
+  </channel>
+</rss>
