@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
 
   <channel>
     <title>Gol de Algoritmo</title>
-    <link>https://jonierthal.github.io/gol-de-algoritmo/</link>
+    <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
     <language>pt-BR</language>
     <copyright>© 2025 Jonathan Erthal</copyright>
     <itunes:author>Jonathan Erthal</itunes:author>
@@ -18,16 +20,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://jonierthal.github.io/gol-de-algoritmo2/assets/capa.jpg" />
     <image>
-      <url>https://jonierthal.github.io/gol-de-algoritmo/assets/capa.jpg</url>
+      <url>https://jonierthal.github.io/gol-de-algoritmo2/assets/capa.jpg</url>
       <title>Gol de Algoritmo</title>
-      <link>https://jonierthal.github.io/gol-de-algoritmo/</link>
+      <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
     </image>
+    <atom:link href="https://jonierthal.github.io/gol-de-algoritmo2/rss/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:category text="Sports">
+      <itunes:category text="Soccer"/>
+    </itunes:category>
 
     <item>
       <title>⚽🤖 Palmeiras Sosaço, K-pop Botafoguense e o Renascimento do Lesionado! 🎤🔥</title>
-      <description>No episódio de hoje do 'Gol de Algoritmo', vamos desvendar as jogadas dentro e fora dos campos! Começamos com o Palmeiras, que está de olho em Ramón Sosa, do Nottingham Forest. Será que o Verdão vai dar chapéu nos ingleses? Enquanto isso, em ritmo de dança, um grupo de K-pop escolheu o Botafogo para brilhar nos palcos, e a torcida já está pedindo bis! Falando em renascimento, um jogador lesionado por Marcelo, ex-Flu, retorna aos gramados após quase dois anos. E Davó, do Remo, está na expectativa de balançar as redes pela primeira vez. Será que agora vai? E como a vida não é só gramado, discutimos a novela 'Duas Caras', revelando qual lado do futebol está dando as cartas hoje. Prepare-se para um episódio cheio de humor, informação e aquele toque de emoção que só o futebol pode proporcionar.</description>
-      <enclosure url="https://jonierthal.github.io/gol-de-algoritmo/episodios/2025-06-27.mp3" length="12345678" type="audio/mpeg"/>
-      <guid>https://jonierthal.github.io/gol-de-algoritmo/episodios/2025-06-27.mp3</guid>
+      <description>No episódio de hoje do 'Gol de Algoritmo' (...)</description>
+      <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-06-27.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-06-27.mp3</guid>
       <pubDate>Fri, 27 Jun 2025 12:00:00 GMT</pubDate>
       <itunes:duration>00:04:30</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
