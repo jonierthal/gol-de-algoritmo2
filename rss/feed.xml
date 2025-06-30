@@ -9,6 +9,7 @@
     <title>Gol de Algoritmo</title>
     <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
     <language>pt-BR</language>
+    <itunes:explicit>no</itunes:explicit>
     <copyright>© 2025 Jonathan Erthal</copyright>
     <itunes:author>Jonathan Erthal</itunes:author>
     <itunes:summary>O futebol como você nunca ouviu: comentários bem-humorados, dados e inteligência artificial com RoboZé e DataLina.</itunes:summary>
@@ -28,6 +29,7 @@
     <itunes:category text="Sports">
       <itunes:category text="Soccer"/>
     </itunes:category>
+      <podcast:locked>no</podcast:locked>
 
     <item>
       <title>⚽🤖 Palmeiras Sosaço, K-pop Botafoguense e o Renascimento do Lesionado! 🎤🔥</title>
