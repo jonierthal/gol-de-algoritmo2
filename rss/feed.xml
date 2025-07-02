@@ -12,12 +12,12 @@
     <copyright>© 2025 Jonathan Erthal</copyright>
     <itunes:author>Jonathan Erthal</itunes:author>
     <itunes:summary>O futebol como você nunca ouviu: comentários bem-humorados, dados e inteligência artificial com RoboZé e DataLina.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
     <description>O futebol como você nunca ouviu: comentários bem-humorados, dados e inteligência artificial com RoboZé e DataLina.</description>
     <itunes:owner>
       <itunes:name>Jonathan Erthal</itunes:name>
       <itunes:email>jonierthal@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://jonierthal.github.io/gol-de-algoritmo2/assets/capa.jpg" />
     <image>
       <url>https://jonierthal.github.io/gol-de-algoritmo2/assets/capa.jpg</url>
