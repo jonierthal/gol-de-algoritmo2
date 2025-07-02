@@ -30,14 +30,15 @@
     </itunes:category>
       <podcast:locked>no</podcast:locked>
 
-    <item>
-      <title>⚽🤖 Palmeiras Sosaço, K-pop Botafoguense e o Renascimento do Lesionado! 🎤🔥</title>
-      <description>No episódio de hoje do 'Gol de Algoritmo' (...)</description>
-      <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-06-27.mp3" length="12345678" type="audio/mpeg"/>
-      <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-06-27.mp3</guid>
-      <pubDate>Fri, 27 Jun 2025 12:00:00 GMT</pubDate>
-      <itunes:duration>00:04:30</itunes:duration>
+      <item>
+        <title>Janderson, Jalecos e o Drama Rubro-Negro: Futebol com Algoritmo e Zueira! ⚽🤖</title>
+        <description>No episódio de hoje do Gol de Algoritmo, RoboZé e DataLina analisam com bom humor e pitadas de ironia os destaques da rodada — e das manchetes! Começamos com Janderson, que completa 300 jogos como profissional e declara seu amor ao Remo! Em Curitiba, o Coritiba se une à UFPR para preservar a história do clube. No Botafogo, a filha do Alex Telles rouba a cena nos EUA como mascote! Já o Flamengo entra em modo emergência sem Gerson. E no futebol internacional, Cole Palmer, do Chelsea, inspira o jovem Estêvão e ainda bate de frente com Guardiola. Prepare-se para um episódio recheado de estatísticas curiosas, piadas dignas de VAR e aquela mistura de zoeira e análise que só RoboZé e DataLina sabem fazer. Siga o Gol de Algoritmo e venha com a gente nessa resenha que combina futebol, dados e inteligência artificial!</description>
+        <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-02.mp3" length="12345678" type="audio/mpeg"/>
+        <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-02.mp3</guid>
+        <pubDate>Sat, 28 Jun 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>00:04:45</itunes:duration>
     </item>
+
 
   </channel>
 </rss>
