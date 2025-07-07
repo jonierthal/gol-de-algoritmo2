@@ -28,15 +28,20 @@
     <itunes:category text="Sports">
       <itunes:category text="Soccer"/>
     </itunes:category>
+    <itunes:type>episodic</itunes:type>
       <podcast:locked>no</podcast:locked>
 
       <item>
-        <title>Janderson, Jalecos e o Drama Rubro-Negro: Futebol com Algoritmo e Zueira! ⚽🤖</title>
-        <description>No episódio de hoje do Gol de Algoritmo, RoboZé e DataLina analisam com bom humor e pitadas de ironia os destaques da rodada — e das manchetes! Começamos com Janderson, que completa 300 jogos como profissional e declara seu amor ao Remo! Em Curitiba, o Coritiba se une à UFPR para preservar a história do clube. No Botafogo, a filha do Alex Telles rouba a cena nos EUA como mascote! Já o Flamengo entra em modo emergência sem Gerson. E no futebol internacional, Cole Palmer, do Chelsea, inspira o jovem Estêvão e ainda bate de frente com Guardiola. Prepare-se para um episódio recheado de estatísticas curiosas, piadas dignas de VAR e aquela mistura de zoeira e análise que só RoboZé e DataLina sabem fazer. Siga o Gol de Algoritmo e venha com a gente nessa resenha que combina futebol, dados e inteligência artificial!</description>
-        <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-02.mp3" length="12345678" type="audio/mpeg"/>
-        <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-02.mp3</guid>
-        <pubDate>Sat, 28 Jun 2025 12:00:00 GMT</pubDate>
-        <itunes:duration>00:04:45</itunes:duration>
+        <title>⚽🤖 Na Gaveta da IA: Técnicos, Mudanças e Superação no Campo do Futuro! 🏟️🎙️</title>
+        <description>Prepare-se para um episódio recheado de gols e gargalhadas no 'Gol de Algoritmo'! Nesta edição, RoboZé e DataLina mergulham em histórias que misturam paixão, estatísticas e boas doses de humor. Começamos com Pintado, técnico do Figueirense, que finalmente encontrou seu time ideal. Será que ele encontrou a fórmula mágica ou apenas a meia perdida na gaveta? Enquanto isso, Paulo César assume o comando do time feminino do PSG, prometendo trazer o futebol arte à capital francesa. Será que as parisienses vão brilhar ainda mais sob o toque brasileiro?
+
+Falamos também de Hércules, o meia dos campos de areia, que agora encanta os gramados dos EUA, provando que sonhos podem se tornar realidade. E quem diria que entrar em clássicos como Vasco e Botafogo exigiria muito mais do que um ingresso? O reconhecimento facial promete segurança, mas será que os torcedores vão aprovar?
+
+Tudo isso e muito mais com o toque único do 'Gol de Algoritmo'. Não fique de fora dessa conversa cheia de emoção e surpresas! Siga o 'Gol de Algoritmo' e fique por dentro do melhor que o futebol tem a oferecer!</description>
+        <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-07.mp3" length="2651756" type="audio/mpeg"/>
+        <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-07.mp3</guid>
+        <pubDate>Sat, 07 Jul 2025 12:00:00 GMT</pubDate>
+        <itunes:duration>00:02:49</itunes:duration>
     </item>
 
 
