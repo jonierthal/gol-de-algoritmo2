@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='2.0' encoding='UTF-8'?>
 <rss xmlns:ns1="http://www.example.com/ns1" xmlns="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="https://podcastindex.org/namespace/1.0" xmlns:ns0="http://www.example.com/ns0">
   <channel>
+  <atom:link href="https://jonierthal.github.io/gol-de-algoritmo2/rss/feed.xml" rel="self" type="application/rss+xml"/>
     <title>Gol de Algoritmo</title>
     <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
     <language>pt-BR</language>
@@ -54,7 +55,7 @@
       <description>No episódio de hoje do "Gol de Algoritmo", prepare-se para mergulhar em um mar de risadas e análises afiadas! RoboZé e DataLina estão afiando as chuteiras para comentar as notícias mais fresquinhas do mundo do futebol. Começamos com a jornada de Dudinha rumo ao San Diego Wave e discutimos se ela vai pegar onda ou apenas colher os frutos de um salário mais robusto. Enquanto isso, Douglas Bacelar retorna ao Figueirense após uma longa pausa. Será que ele vai driblar as dificuldades ou precisar de um GPS para achar o caminho de volta ao gol? No Cuiabá, um reforço gringo encara o campo de batalha da Série B como um verdadeiro desbravador. E não perca o retorno surpreendente de um veterano, ex-Fluminense e Goiás, que aos 47 anos ainda quer conquistar o gramado! Entre estratégias, ofertas e reviravoltas, RoboZé e DataLina garantem que cada drible informativo venha acompanhado de uma boa dose de humor! Não fique de fora dessa conversa cheia de emoção e surpresas! Siga o 'Gol de Algoritmo' e fique por dentro do melhor que o futebol tem a oferecer!</description>
       <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-24.mp3" length="2616812" type="audio/mpeg"/>
       <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-24.mp3</guid>
-      <pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 GMT</pubDate>
       <ns0:duration>00:02:43</ns0:duration>
     </item>
     <item>
@@ -66,7 +67,7 @@
       Entre números, emoções e reviravoltas, esse episódio está imperdível. Não fique de fora dessa conversa cheia de emoção e surpresas! Siga o 'Gol de Algoritmo' e fique por dentro do melhor que o futebol tem a oferecer!</description>
       <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-25.mp3" length="2597612" type="audio/mpeg"/>
       <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-25.mp3</guid>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 25 Jul 2025 12:00:00 GMT</pubDate>
       <ns0:duration>00:02:42</ns0:duration>
     </item>
   </channel>
