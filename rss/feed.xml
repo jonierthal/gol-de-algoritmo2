@@ -1,4 +1,4 @@
-<rss version="2.0">
+<rss xmlns="http://purl.org/rss/1.0/" version="2.0">
   <channel>
     <title>Gol de Algoritmo</title>
     <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
@@ -26,7 +26,7 @@
       <description>No episódio de hoje do "Gol de Algoritmo", RoboZé e DataLina estão prontos para driblar as notícias esportivas com muito humor e informação! Começamos com a saída surpreendente de Gyokeres do Sporting, gerando um burburinho digno de um jogo acirrado. Enquanto isso, o Manchester United sonha grande e quer sediar a final da Copa do Mundo Feminina em Old Trafford — alguém aí já está com a vuvuzela preparada? O clima festivo continua com o Liverpool homenageando Diogo Jota e André Silva no pontapé inicial da temporada. E na Série D, Central e Inter de Limeira mostram que o futebol é uma roda gigante, dando a volta por cima após rebaixamentos estaduais. Mas nem tudo são flores: a FIFA freia os planos da Conmebol de expandir a Copa de 2030 para 64 seleções. Parece que o evento não quer virar aquela festa de fim de ano onde ninguém se conhece! Fechando com chave de ouro, nosso episódio promete fofoca, risadas e, claro, muito futebol. Não fique de fora dessa conversa cheia de emoção e surpresas! Siga o 'Gol de Algoritmo' e fique por dentro do melhor que o futebol tem a oferecer!</description>
       <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-11.mp3" length="2385644" type="audio/mpeg"/>
       <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-11.mp3</guid>
-      <pubDate>Fri, 11 Jul 2025 11:00:00 GMT</pubDate>
+      <pubDate>Mon, 11 Jul 2025 11:00:00 GMT</pubDate>
       <duration>00:02:29</duration>
     </item>
   </channel>
