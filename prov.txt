@@ -1,0 +1,32 @@
+<item>
+      <title>Futebol e R$obo$: Investimentos, Lesões e Humor Num Passe de Dados ⚽🤖💰</title>
+      <description>No episódio de hoje de "Gol de Algoritmo", RoboZé e DataLina entram em campo com uma análise divertida e informativa das notícias mais quentes do futebol! Descubra a última do rival do Barcelona, que está vendendo seu futebol para um fundo de investimento. Será que o time vai se embananar ou dar um show no mercado? 
+        E enquanto isso, no Real Madrid, a joia Endrick enfrenta uma lesão que o tira da pré-temporada. Será que ele ainda vai brilhar como um Galáctico? 
+        Não perca o debate sobre a possível ida de Arias, do Fluminense, para o Wolverhampton. Será que ele vai trocar o sol do Rio pelo frio da Inglaterra? 
+        Além disso, a situação de Pedro no Flamengo promete muito babado, e o Vasco surpreende ao contratar Thiago Mendes para o meio-campo. 
+        Com muita zoação e dados precisos, RoboZé e DataLina garantem que você vai se divertir e se informar. Não fique de fora dessa conversa cheia de emoção e surpresas! Siga o 'Gol de Algoritmo' e fique por dentro do melhor que o futebol tem a oferecer!</description>
+      <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-14.mp3" length="2600684" type="audio/mpeg"/>
+      <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-14.mp3</guid>
+      <pubDate>Mon, 14 Jul 2025 12:00:00 GMT</pubDate>
+      <duration>00:02:42</duration>
+    </item>  
+    <item>
+      <title>De São Paulo a San Diego: Ondas de Contratações e Retornos Surpreendentes no Futebol 🌊⚽</title>
+      <description>No episódio de hoje do "Gol de Algoritmo", prepare-se para mergulhar em um mar de risadas e análises afiadas! RoboZé e DataLina estão afiando as chuteiras para comentar as notícias mais fresquinhas do mundo do futebol. Começamos com a jornada de Dudinha rumo ao San Diego Wave e discutimos se ela vai pegar onda ou apenas colher os frutos de um salário mais robusto. Enquanto isso, Douglas Bacelar retorna ao Figueirense após uma longa pausa. Será que ele vai driblar as dificuldades ou precisar de um GPS para achar o caminho de volta ao gol? No Cuiabá, um reforço gringo encara o campo de batalha da Série B como um verdadeiro desbravador. E não perca o retorno surpreendente de um veterano, ex-Fluminense e Goiás, que aos 47 anos ainda quer conquistar o gramado! Entre estratégias, ofertas e reviravoltas, RoboZé e DataLina garantem que cada drible informativo venha acompanhado de uma boa dose de humor! Não fique de fora dessa conversa cheia de emoção e surpresas! Siga o 'Gol de Algoritmo' e fique por dentro do melhor que o futebol tem a oferecer!</description>
+      <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-24.mp3" length="2616812" type="audio/mpeg"/>
+      <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-24.mp3</guid>
+      <pubDate>Thu, 24 Jul 2025 12:00:00 GMT</pubDate>
+      <duration>00:02:43</duration>
+    </item>
+    <item>
+      <title>Pedro Rocha é Estátua ou Museu? ⚽️ Luan Ressurge e Wesley Vai de Pizza! 🍕</title>
+      <description>Prepare-se para mais uma rodada emocionante com o “Gol de Algoritmo”! Neste episódio, RoboZé, nosso torcedor raiz, e a racional DataLina, trazem um resumo dos destaques do futebol com aquela pitada de humor e informação que você adora. Começamos com o craque Pedro Rocha, que está literalmente carregando o Remo nas costas na Série B! Será que uma estátua à vista? DataLina pondera: se cada jogador tivesse uma, teríamos cidades cheias de “museus de cera”!
+
+      Em seguida, falamos sobre a estreia do Biel no Atlético-MG contra o Flamengo, enquanto do outro lado, Saúl promete fazer a torcida do Ninho do Urubu vibrar! E no Flamengo, Wesley se despede, possivelmente já sonhando com pizzas italianas. A surpresa fica por conta de Luan, que volta ao São Paulo após 660 dias, sob a batuta de Crespo. É a chance do Tricolor brilhar novamente!
+
+      Entre números, emoções e reviravoltas, esse episódio está imperdível. Não fique de fora dessa conversa cheia de emoção e surpresas! Siga o 'Gol de Algoritmo' e fique por dentro do melhor que o futebol tem a oferecer!</description>
+      <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-25.mp3" length="2597612" type="audio/mpeg"/>
+      <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-25.mp3</guid>
+      <pubDate>Fri, 25 Jul 2025 12:00:00 GMT</pubDate>
+      <duration>00:02:42</duration>
+    </item>

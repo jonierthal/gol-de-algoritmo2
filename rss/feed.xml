@@ -10,11 +10,10 @@
     <image>
       <url>https://jonierthal.github.io/gol-de-algoritmo2/assets/capa.jpg</url>
       <title>Gol de Algoritmo</title>
-      <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
     </image>
     
     <!-- Link para o feed -->
-    <link>https://jonierthal.github.io/gol-de-algoritmo2/rss/feed.xml</link>
+    <atom:link href="https://jonierthal.github.io/gol-de-algoritmo2/rss/feed.xml" rel="self" type="application/rss+xml" />
     
     <!-- Categoria -->
     <category>Sports</category>
