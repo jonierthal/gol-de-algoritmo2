@@ -1,4 +1,4 @@
-<rss xmlns="http://purl.org/rss/1.0/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Gol de Algoritmo</title>
     <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
@@ -10,9 +10,10 @@
     <image>
       <url>https://jonierthal.github.io/gol-de-algoritmo2/assets/capa.jpg</url>
       <title>Gol de Algoritmo</title>
+      <link>https://jonierthal.github.io/gol-de-algoritmo2/</link>
     </image>
     
-    <!-- Link para o feed -->
+    <!-- Link atom:link com o namespace correto -->
     <atom:link href="https://jonierthal.github.io/gol-de-algoritmo2/rss/feed.xml" rel="self" type="application/rss+xml" />
     
     <!-- Categoria -->
@@ -26,7 +27,6 @@
       <enclosure url="https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-11.mp3" length="2385644" type="audio/mpeg"/>
       <guid>https://jonierthal.github.io/gol-de-algoritmo2/episodios/2025-07-11.mp3</guid>
       <pubDate>Fri, 11 Jul 2025 11:00:00 GMT</pubDate>
-      <duration>00:02:29</duration>
     </item>
   </channel>
 </rss>
